@@ -9,6 +9,7 @@ import java.util.Map;
 
 /**
  *
+ *
  * @author usuario
  */
 public class Kata2 {
